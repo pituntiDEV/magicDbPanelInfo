@@ -46,11 +46,19 @@ PLEX:
   Crear Paquetes:
     Una vez el server agregado, 
     puedes configurar tus paquetes.
-    Ve a la seccion de paquetes.
+    Ve a la seccion de paquetes en Plex.
     Los paquetes son la forma de agrupar las bibliotecas que deseas compartir.
     Simplemente haz clic en "Nuevo paquete".
-    selecciona el servidor y aparecerán las librerías o bibliotecas disponibles en tu servidor. 
-    te pedira un nombre para ese paquete pon el nombre que quieras por ejemplo peliculas,series o 4k etc.
+    Selecciona el servidor y aparecerán las librerías o bibliotecas disponibles en tu servidor. 
+    Selecciona las librerías o bibliotecas que quieras que esten en este paquete
+    Te pedira un nombre para ese paquete pon el nombre que quieras por ejemplo peliculas,series o 4k etc.
+    En el campo de costo extra:
+    El campo de costo extra significa que cada vez que un reseller active usando ese paquete se le descontara el coste extra asignado por ese paquete 
+    ejemplo: si tengo un paquete 4k y quiero que tenga mas valor al  activarlo le pongo conte extra 1
+    y cada vez que el reseller use ese paquete se le descontara ese coste extra de creditos 
+    se le quitara ejemplo: si activa un mes(1 credito) y el paquete tiene un coste extra de 1 se le descontaran 2 creditos 
+    y si el activa 3 meses (creditos) se le descontaran 6 creditos
+    Le das en crear y listo ya tienes tu paquete listo para usarlo. 
     Crea los paquetes de manera que puedas dividir tu contenido a compartir, por ejemplo, Películas, Series, 4K, Adultos, etc.
 
 
@@ -67,6 +75,23 @@ Emby:
       le das en el boton de agregar y te pedira un nombre para el apiKey le pones el nombre que quieras.
       y listo te mostrara una clave debajo del nombre asignado esa es tu apiKey
     Una vez hecho todos los pasos anteriores ya tienes tu cuenta de Emby Lista para crear los paquetes de medios
+   Crear Paquetes:
+    Una vez la cuenta fue agregada, 
+    puedes configurar tus paquetes.
+    Ve a la seccion de paquetes en Emby.
+    Los paquetes son la forma de agrupar las bibliotecas que deseas compartir.
+    Simplemente haz clic en "Nuevo paquete".
+    Te pedira un nombre para ese paquete pon el nombre que quieras por ejemplo peliculas,series o 4k etc.
+    Selecciona la cuenta agregada y aparecerán las librerías o bibliotecas disponibles en tu servidor. 
+    selecciona las librerías o bibliotecas que quieras que esten en este paquete.
+    En el campo de costo extra:
+    El campo de costo extra significa que cada vez que un reseller active usando ese paquete se le descontara el coste extra asignado por ese paquete 
+    ejemplo: si tengo un paquete 4k y quiero que tenga mas valor al  activarlo le pongo conte extra 1
+    y cada vez que el reseller use ese paquete se le descontara ese coste extra de creditos 
+    se le quitara ejemplo: si activa un mes(1 credito) y el paquete tiene un coste extra de 1 se le descontaran 2 creditos 
+    y si el activa 3 meses (creditos) se le descontaran 6 creditos
+    Le das en crear y listo ya tienes tu paquete listo para usarlo. 
+    Crea los paquetes de manera que puedas dividir tu contenido a compartir, por ejemplo, Películas, Series, 4K, Adultos, etc.
       
 
 
@@ -82,30 +107,42 @@ Jellyfin:
       En la parte inferios izquierda del menu busca donde diga Claves API o APIKEY
       le das en el boton de agregar y te pedira un nombre para el apiKey le pones el nombre que quieras.
       y listo te mostrara una clave debajo del nombre asignado esa es tu apiKey  
-    Una vez hecho todos los pasos anteriores ya tienes tu cuenta de Jellyfin Lista para crear los paquetes de medios
-    
-
-
-
-
-
-
+    Una vez hecho todos los pasos anteriores ya tienes tu cuenta de Jellyfin Lista para crear los paquetes de medios.
+   Crear Paquetes:
+    Una vez la cuenta fue agregada, 
+    puedes configurar tus paquetes.
+    Ve a la seccion de paquetes en Jellyfin.
+    Los paquetes son la forma de agrupar las bibliotecas que deseas compartir.
+    Simplemente haz clic en "Nuevo paquete".
+    Te pedira un nombre para ese paquete pon el nombre que quieras por ejemplo peliculas,series o 4k etc.
+    Selecciona la cuenta agregada y aparecerán las librerías o bibliotecas disponibles en tu servidor. 
+    selecciona las librerías o bibliotecas que quieras que esten en este paquete.
+    En el campo de costo extra:
+    El campo de costo extra significa que cada vez que un reseller active usando ese paquete se le descontara el coste extra asignado por ese paquete 
+    ejemplo: si tengo un paquete 4k y quiero que tenga mas valor al  activarlo le pongo conte extra 1
+    y cada vez que el reseller use ese paquete se le descontara ese coste extra de creditos 
+    se le quitara ejemplo: si activa un mes(1 credito) y el paquete tiene un coste extra de 1 se le descontaran 2 creditos 
+    y si el activa 3 meses (creditos) se le descontaran 6 creditos
+    Le das en crear y listo ya tienes tu paquete listo para usarlo. 
+    Crea los paquetes de manera que puedas dividir tu contenido a compartir, por ejemplo, Películas, Series, 4K, Adultos, etc.
 
 -------
-
-Crear Paquetes:
-Una vez creadas las cuentas, puedes configurar tus paquetes. Los paquetes son la forma de agrupar las bibliotecas que deseas compartir. Cada plataforma tiene su método para agregar paquetes, pero todos son muy similares. Simplemente haz clic en "Nuevo paquete", selecciona el servidor y aparecerán las librerías o bibliotecas disponibles en tu servidor. Crea los paquetes de manera que puedas dividir tu contenido a compartir, por ejemplo, Películas, Series, 4K, Adultos, etc.
-
-Créditos y cómo funcionan:
-Los créditos representan el tiempo en meses que vas a agregar. Por ejemplo, 2 créditos equivalen a 2 meses. El proceso para crear usuarios es sencillo: haz clic en "Crear usuario", selecciona los paquetes a compartir, elige los créditos y las conexiones. Las conexiones determinan cuántos dispositivos pueden ver simultáneamente.
-em plex puedes crear usuarios y cuando son creados se acepta la invitacion automaticamnete. 
-en emby tambien puedes crear un usario o agregarlo con embyConnect
 
 Contacto:
   SOLO Si te piden contacto o hablar con una persona  dales este WhatsApp 
   +19565083207
 
+_____
+
 Explications:
+  Créditos y cómo funcionan:
+  Los créditos representan el tiempo en meses que vas a agregar. 
+  Por ejemplo, 2 créditos equivalen a 2 meses.
+
+  El proceso para crear usuarios es sencillo: haz clic en "Crear usuario", selecciona los paquetes a compartir, elige los créditos y las conexiones. Las conexiones determinan cuántos dispositivos pueden ver simultáneamente.
+em plex puedes crear usuarios y cuando son creados se acepta la invitacion automaticamnete. 
+en emby tambien puedes crear un usario o agregarlo con embyConnect
+
   WebHook: un webhook es una URL que puedes configurar para recibir notificaciones automáticas sobre eventos específicos que ocurren en tu servidor Plex. Estos eventos pueden incluir la reproducción de un medio, la adición de nuevos elementos a tu biblioteca, la creación de listas de reproducción, entre otros.
   Cuando se produce uno de estos eventos, el servidor Plex envía una solicitud HTTP a la URL del webhook que has configurado, proporcionando información sobre el evento que ha ocurrido. Esto te permite integrar Plex con otras aplicaciones o servicios, como sistemas de automatización del hogar, herramientas de seguimiento de actividad, o simplemente para recibir notificaciones personalizadas sobre el uso de tu servidor Plex.
 En resumen, un webhook en Plex es una forma de recibir actualizaciones automáticas sobre eventos importantes que ocurren en tu servidor Plex, permitiéndote integrar Plex con otras herramientas y servicios de manera más avanzada.
