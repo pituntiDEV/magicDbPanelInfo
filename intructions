@@ -19,8 +19,9 @@ Reprociones de todos tu servers en tiempo real
 
 ----
 Requisitos:
-Estar registrado con un  corro en https://magicdashboard.net/register.
-Tener un server funcionando y con librerias ya sea de (PLEX,EMBY,JELLYFIN)
+Estar registrado con un  correo en https://magicdashboard.net/register.
+Tener un server funcionando y con librerias o bibliotecas ya sea de (PLEX,EMBY,JELLYFIN)
+un APIKEY en Emby o Jellyfin ya que funciona con apikey para dar acceso al panel
 
 -----
 
