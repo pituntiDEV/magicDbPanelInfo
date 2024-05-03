@@ -9,7 +9,12 @@ Panel:
 Primero, regístrate en https://magicdashboard.net/.
 Una vez registrado, inicia sesión en tu cuenta.
 Dirígete a la sección de cuenta y crea una cuenta según el servicio que desees (PLEX, EMBY, JELLYFIN).
-Para PLEX: Te pedirá que inicies sesión de forma segura. Una vez iniciada la sesión en Plex, la cuenta se guardará automáticamente. Luego, ve a la sección de servidor y agrega un nuevo servidor seleccionando la cuenta que acabas de registrar.
+PLEX:
+Te pedirá que inicies sesión de forma segura. Una vez iniciada la sesión en Plex, la cuenta se guardará automáticamente. 
+Luego, ve a la sección de servidor y agrega un nuevo servidor seleccionando la cuenta que acabas de registrar.
+recuerdales que para que el panel funcione bien con PLEX es recomendable pagar el plex pass 
+para el uso del webhook
+
 Para Emby y Jellyfin: En la sección de cuenta, haz clic en crear cuenta. El proceso es el mismo para ambos. Se te pedirá un nombre para el servidor, la dirección IP, el puerto y la apiKey obtenida desde tu plataforma, ya sea Emby o Jellyfin.
 Paquete:
 Una vez creadas las cuentas, puedes configurar tus paquetes. Los paquetes son la forma de agrupar las bibliotecas que deseas compartir. Cada plataforma tiene su método para agregar paquetes, pero todos son muy similares. Simplemente haz clic en "Nuevo paquete", selecciona el servidor y aparecerán las librerías o bibliotecas disponibles en tu servidor. Crea los paquetes de manera que puedas dividir tu contenido a compartir, por ejemplo, Películas, Series, 4K, Adultos, etc.
