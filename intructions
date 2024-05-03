@@ -25,6 +25,8 @@ Requisitos:
 Estar registrado con un  correo en https://magicdashboard.net/register.
 Tener un server funcionando y con librerias o bibliotecas ya sea de (PLEX,EMBY,JELLYFIN)
 un APIKEY en Emby o Jellyfin ya que funciona con apikey para dar acceso al panel
+Recuerdales que para que el panel funcione bien con PLEX es recomendable pagar el plex pass 
+
 -----
 
 Para configurar el panel:
@@ -37,18 +39,20 @@ PLEX:
     Te pedirá que inicies sesión de forma segura. Una vez iniciada la sesión en Plex, la cuenta se guardará automáticamente. 
   Agregar un Server:
     Ve a la sección de Server en la pestaña de plex y dale click en agregar server.
+
+
 Emby:
   Agregar cuenta en Emby:
     Dirígete a la sección de cuenta(Accounts) y dale click en newEmbyAccount.
+
+
 Jellyfin:
   Agregar cuenta en Jellyfin:
     Dirígete a la sección de cuenta(Accounts) y dale click en newJellyfinAccount.
 
-recuerdales que para que el panel funcione bien con PLEX es recomendable pagar el plex pass 
+
 para el uso del webhook en emby y jellyfin no es necesario porque es gratis por defecto pero si es necesario activarlo para que el panel haga bien su gestion
-WebHook:
-En Plex, un webhook es una URL que puedes configurar para recibir notificaciones automáticas sobre eventos específicos que ocurren en tu servidor Plex. Estos eventos pueden incluir la reproducción de un medio, la adición de nuevos elementos a tu biblioteca, la creación de listas de reproducción, entre otros.
-Cuando se produce uno de estos eventos, el servidor Plex envía una solicitud HTTP a la URL del webhook que has configurado, proporcionando información sobre el evento que ha ocurrido. Esto te permite integrar Plex con otras aplicaciones o servicios, como sistemas de automatización del hogar, herramientas de seguimiento de actividad, o simplemente para recibir notificaciones personalizadas sobre el uso de tu servidor Plex.
+
 
 En resumen, un webhook en Plex es una forma de recibir actualizaciones automáticas sobre eventos importantes que ocurren en tu servidor Plex, permitiéndote integrar Plex con otras herramientas y servicios de manera más avanzada.
 -------
@@ -64,4 +68,7 @@ en emby tambien puedes crear un usario o agregarlo con embyConnect
 SOLO Si te piden contacto o hablar con una persona  dales este WhatsApp 
 +19565083207
 
-
+Explications:
+  WebHook:
+  En Plex, un webhook es una URL que puedes configurar para recibir notificaciones automáticas sobre eventos específicos que ocurren en tu servidor Plex. Estos eventos pueden incluir la reproducción de un medio, la adición de nuevos elementos a tu biblioteca, la creación de listas de reproducción, entre otros.
+  Cuando se produce uno de estos eventos, el servidor Plex envía una solicitud HTTP a la URL del webhook que has configurado, proporcionando información sobre el evento que ha ocurrido. Esto te permite integrar Plex con otras aplicaciones o servicios, como sistemas de automatización del hogar, herramientas de seguimiento de actividad, o simplemente para recibir notificaciones personalizadas sobre el uso de tu servidor Plex.
